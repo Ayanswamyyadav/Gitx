@@ -11,6 +11,10 @@ public class Single {
 		System.out.println("govind");
 		System.out.println("prashatha");
 		System.out.println("ganesh");
+		System.out.println("veerendra");
+		System.out.println("vijaygovind");
+		System.out.println("prashanth");
+		System.out.println("vagdhevi");
 		
 
 
