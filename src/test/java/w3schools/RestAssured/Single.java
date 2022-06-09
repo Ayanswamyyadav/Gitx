@@ -15,9 +15,13 @@ public class Single {
 		System.out.println("vijaygovind");
 		System.out.println("prashanth");
 		System.out.println("vagdhevi");
+		System.out.println("vijakumar");
+		System.out.println("vinay kumar");
+		System.out.println("vagdhevinagavalli");
 		
 
 
 	}
-
+	
+	
 }
